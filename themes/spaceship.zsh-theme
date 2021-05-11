@@ -1,0 +1,1 @@
+/Users/killercai/github/spaceship-prompt/spaceship.zsh-theme
